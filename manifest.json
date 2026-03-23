@@ -1,0 +1,27 @@
+{
+  "name": "تحدي الحساب الذهني",
+  "short_name": "الحساب الذهني",
+  "description": "اختبر سرعة وقوة عقلك في الحساب الذهني",
+  "start_url": "./mental-math-quiz.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b14",
+  "theme_color": "#080b14",
+  "lang": "ar",
+  "dir": "rtl",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "categories": [
+    "education",
+    "games"
+  ],
+  "prefer_related_applications": false
+}
